@@ -1,6 +1,6 @@
 # clojurebreaker
 
-A website written in noir. 
+Implements a 'code breaker' application in Clojure on top of the noir framework.
 
 ## Usage
 
@@ -10,8 +10,6 @@ lein run
 ```
 
 ## License
-
-Copyright (C) 2011 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
 
